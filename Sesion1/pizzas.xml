@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pizzas SYSTEM "pizzas.dtd">
+<pizzas>
+  <pizza nombre="Barbacoa" precio="8">
+    <ingrediente nombre="Salsa Barbacoa" />
+    <ingrediente nombre="Mozzarella" />
+  </pizza>
+  <pizza nombre="Margarita" precio="6">
+    <ingrediente nombre="Jamon" />
+    <ingrediente nombre="Queso" />
+  </pizza>
+</pizzas>
+
