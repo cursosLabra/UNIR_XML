@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg">
+  <svg:text y="40" x="10" font-size="20">Barbacoa</svg:text><svg:rect y="30" x="150" width="80" height="10" fill="blue"/>
+  <svg:text y="80" x="10" font-size="20">Margarita</svg:text><svg:rect y="70" x="150" width="60" height="10" fill="blue"/>
+  <svg:text y="120" x="10" font-size="20">4 estaciones</svg:text><svg:rect y="110" x="150" width="50" height="10" fill="blue"/>
+</svg:svg>
